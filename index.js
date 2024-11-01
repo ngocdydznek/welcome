@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["✌Xin Chào Tất Cả Mọi Người"];
+const statusMessages = ["🎉Chúc Toàn Bộ Khách Hàng của DStore 8386"];
 
 
 let currentIndex = 0;
